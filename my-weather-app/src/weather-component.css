@@ -1,0 +1,17 @@
+.weather-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .weather-container h1 {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  
+  .weather-container p {
+    margin: 8px 0;
+  }
