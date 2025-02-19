@@ -29,6 +29,8 @@ export const getWeatherData = async () => {
       temperature2m: hourly.temperature_2m,
     },
   };
-
+  console.log(weatherData);
   return weatherData;
-};
+  
+    
+}
